@@ -6,4 +6,4 @@ I'm a Front & Back End Developer
 <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,lua,nodejs,mysql,react" alt="HTML5" /></a>
 
 ### Learning:
-<img src="https://skillicons.dev/icons?i=react" alt="HTML5" /></a>
+<img src="https://skillicons.dev/icons?i=redux" alt="HTML5" /></a>
