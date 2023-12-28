@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Noyz!
+### Hi there 👋 I'm Giqz!
 
 I'm a Front & Back End Developer 
 
