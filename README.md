@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Giqz!
+### Hi there 👋 I'm Cavallo
 
 I'm a Front & Back End Developer 
 
